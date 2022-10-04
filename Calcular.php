@@ -6,5 +6,6 @@
    $r2 = $r1 + $tGraficacao ;
    echo"O Resultado é: <br>" . $r2. "</b>";
 echo " O funcionario ganha este salario ";
+echo "Hello World";
   
 ?>
